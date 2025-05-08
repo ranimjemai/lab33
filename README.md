@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # EXECUTION:
 ![capture 1](images/3.png) Langchain1
 ![capture 2](images/8.png) Langchain1
@@ -27,3 +28,6 @@ LangChain est un framework puissant pour construire des applications IA autour d
 
 ### Prérequis
 pip install langchain langchain-groq duckduckgo-search pydantic
+=======
+# lab33
+>>>>>>> ec55e8b1fec6dee1082b49d4cf27f8daade7ce2d
